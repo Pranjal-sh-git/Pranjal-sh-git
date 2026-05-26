@@ -61,7 +61,20 @@ I'm an **AI/ML Undergrad** passionate about solving complex analytical problems 
 
 </div>
 
+**🎨 Creative Tools**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" />
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Adobe%20Express-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Express" />
+
+</div>
+
 ---
+
 
 ## 🎬 Creative Spotlight: Video Crafting
 
