@@ -1,370 +1,170 @@
+<!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020402,50:062b0b,100:00ff41&height=180&section=header&text=PRANJAL.SYS&fontSize=52&fontColor=00ff41&fontAlignY=40&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+ONLINE;AI%2FML+%7C+BACKEND+%7C+DATA;BUILDING+INTELLIGENT+SYSTEMS;DEBUGGING+REALITY...;%3E+ACCESS+GRANTED" />
+
+<img src="assets/banner.svg" width="100%" alt="Pranjal Sharma — AI/ML Engineering · Backend · Data"/>
+
 <br/>
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=flat-square&labelColor=050805"/>
-<img src="https://img.shields.io/badge/CORE-AI%2FML-00ff41?style=flat-square&labelColor=050805"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-00ff41?style=flat-square&labelColor=050805"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-00ff41?style=flat-square&labelColor=050805"/>
-<br/><br/>
-<a href="https://github.com/Pranjal-sh-git">
-<img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/pranjal-sharma-75123332a">
-<img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
+
+<img src="assets/terminal.svg" width="100%" alt="terminal intro"/>
+
+<br/>
+
+<a href="https://github.com/Pranjal-sh-git"><img src="https://img.shields.io/badge/GitHub-0a0e14?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0a0e14"/></a>
+<a href="https://www.linkedin.com/in/pranjal-sharma-75123332a"><img src="https://img.shields.io/badge/LinkedIn-0a0e14?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=0a0e14"/></a>
+<img src="https://komarev.com/ghpvc/?username=Pranjal-sh-git&style=for-the-badge&color=00ff9c&labelColor=0a0e14&label=PROFILE+VIEWS"/>
+
 </div>
----
-<table>
-<tr>
-<td width="50%" valign="top">
-`> IDENTITY`
-```text
-╔══════════════════════════════╗
-║        USER PROFILE          ║
-╠══════════════════════════════╣
-║                              ║
-║  NAME     :: PRANJAL SHARMA ║
-║  ROLE     :: AI/ML STUDENT  ║
-║  STATUS   :: BUILDING       ║
-║                              ║
-║  DOMAIN   :: AI / BACKEND   ║
-║             DATA / SYSTEMS  ║
-║                              ║
-║  MODE     :: LEARN → BUILD  ║
-║             → BREAK → FIX   ║
-║                              ║
-╚══════════════════════════════╝
-```
-</td>
-<td width="50%" valign="top">
-`> SYSTEM STATUS`
-```text
-[███████████████████] 100%
 
-● AI / ML        ONLINE
-● BACKEND        ONLINE
-● DATA           ONLINE
-● APIs           ONLINE
-● RAG            ACTIVE
-● DSA            TRAINING
-● SYSTEM DESIGN  LOADING...
-```
-</td>
-</tr>
-</table>
----
-`> ABOUT.ME`
-```text
-$ whoami
+<br/>
 
-Pranjal Sharma.
+<!-- ═══════════════ 01 ABOUT ═══════════════ -->
+<img src="assets/sec-01.svg" width="100%" alt="01 ABOUT"/>
 
-AI/ML undergraduate interested in the engineering
-behind intelligent products.
+I'm an **AI/ML undergraduate** interested in building practical software around intelligent systems.
 
-I don't just want to train a model.
+I enjoy going beyond the model itself: the **data pipeline, APIs, backend services, databases, integrations and deployment** that turn an idea into an actual application.
 
-I want to understand what happens around it:
+```json
+{
+  "name": "Pranjal Sharma",
+  "role": "AI/ML undergraduate",
+  "interests": ["Artificial Intelligence", "Machine Learning", "Backend Engineering", "Data"],
+  "goal": "Real Products"
+}
+```
 
-        DATA
-         ↓
-        MODEL
-         ↓
-        LOGIC
-         ↓
-        API
-         ↓
-      BACKEND
-         ↓
-       PRODUCT
+<br/>
 
-Currently exploring AI engineering, backend systems,
-RAG, machine learning, APIs, databases and DSA.
-```
-> **Build it. Break it. Understand it. Rebuild it.**
----
-`> CORE.SYSTEMS`
-<table>
-<tr>
-<td align="center" width="25%">
-`AI`
-```text
-Python
-ML
-NLP
-Computer Vision
-RAG
-XGBoost
-```
-</td>
-<td align="center" width="25%">
-`BACKEND`
-```text
-Django
-Flask
-Node.js
-Express
-REST APIs
-Authentication
-```
-</td>
-<td align="center" width="25%">
-`DATA`
-```text
-NumPy
-Pandas
-SQL
-MongoDB
-SQLite
-Power BI
-```
-</td>
-<td align="center" width="25%">
-`TOOLS`
-```text
-Git
-GitHub
-Azure
-VS Code
-Postman
-Jupyter
-```
-</td>
-</tr>
-</table>
----
-`> TECH.STACK`
+<!-- ═══════════════ 02 FEATURED WORK ═══════════════ -->
+<img src="assets/sec-02.svg" width="100%" alt="02 FEATURED WORK"/>
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,sql,django,flask,nodejs,express,mongodb,mysql,sqlite,git,github,azure,vscode,postman&theme=dark" />
+<table>
+<tr>
+<td><a href="https://github.com/Pranjal-sh-git/visioniq"><img src="assets/card-visioniq.svg" width="450" alt="VisionIQ"/></a></td>
+<td><a href="https://github.com/Pranjal-sh-git/recurring-expense-anomaly-tracker"><img src="assets/card-anomaly.svg" width="450" alt="Recurring Expense Anomaly Tracker"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Pranjal-sh-git/surge-pricing-app"><img src="assets/card-surge.svg" width="450" alt="Surge Pricing App"/></a></td>
+<td><a href="https://github.com/Pranjal-sh-git/CineVault"><img src="assets/card-cinevault.svg" width="450" alt="CineVault"/></a></td>
+</tr>
+</table>
 </div>
----
-`> PROJECT.DATABASE`
-`01 / VISIONIQ`
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  VISIONIQ                                   │
-│  ─────────────────────────────────────────  │
-│                                             │
-│  AI-powered visual intelligence system.     │
-│                                             │
-│  Exploring the integration of AI, visual    │
-│  understanding, RAG and backend services    │
-│  into a single application.                 │
-│                                             │
-│  [ PYTHON ] [ AI ] [ RAG ] [ APIs ]        │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-<a href="https://github.com/Pranjal-sh-git/visioniq">
-<img src="https://img.shields.io/badge/%3E_ ACCESS_REPOSITORY-00ff41?style=for-the-badge&labelColor=050805&logo=github&logoColor=00ff41"/>
-</a>
----
-`02 / RECURRING EXPENSE ANOMALY TRACKER`
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  RECURRING EXPENSE ANOMALY TRACKER         │
-│  ─────────────────────────────────────────  │
-│                                             │
-│  Backend project focused on identifying     │
-│  unusual patterns in recurring expenses.    │
-│                                             │
-│  [ JAVASCRIPT ] [ BACKEND ] [ DATA ]       │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-<a href="https://github.com/Pranjal-sh-git/recurring-expense-anomaly-tracker">
-<img src="https://img.shields.io/badge/%3E_ ACCESS_REPOSITORY-00ff41?style=for-the-badge&labelColor=050805&logo=github&logoColor=00ff41"/>
-</a>
----
-`03 / SURGE PRICING APP`
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  SURGE PRICING APP                         │
-│  ─────────────────────────────────────────  │
-│                                             │
-│  Exploring dynamic pricing and predictive   │
-│  analytics through a web application.       │
-│                                             │
-│  [ JAVASCRIPT ] [ DATA ] [ PREDICTION ]    │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-<a href="https://github.com/Pranjal-sh-git/surge-pricing-app">
-<img src="https://img.shields.io/badge/%3E_ ACCESS_REPOSITORY-00ff41?style=for-the-badge&labelColor=050805&logo=github&logoColor=00ff41"/>
-</a>
----
-`04 / CINEVAULT`
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  CINEVAULT                                  │
-│  ─────────────────────────────────────────  │
-│                                             │
-│  Movie-focused web application exploring    │
-│  frontend development and API-driven data.  │
-│                                             │
-│  [ JAVASCRIPT ] [ WEB ] [ APIs ]           │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-<a href="https://github.com/Pranjal-sh-git/CineVault">
-<img src="https://img.shields.io/badge/%3E_ ACCESS_REPOSITORY-00ff41?style=for-the-badge&labelColor=050805&logo=github&logoColor=00ff41"/>
-</a>
----
-`05 / STOCKALY`
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  STOCKALY                                   │
-│  ─────────────────────────────────────────  │
-│                                             │
-│  Inventory management system exploring      │
-│  full-stack architecture, APIs, databases   │
-│  and application workflows.                 │
-│                                             │
-│  [ DJANGO ] [ FLASK ] [ SQLITE ]           │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-<a href="https://github.com/Pranjal-sh-git/Stockaly-repository">
-<img src="https://img.shields.io/badge/%3E_ ACCESS_REPOSITORY-00ff41?style=for-the-badge&labelColor=050805&logo=github&logoColor=00ff41"/>
-</a>
----
-`> CURRENT.OPERATIONS`
+
+<br/>
+
+<!-- ═══════════════ 03 STACK ═══════════════ -->
+<img src="assets/sec-03.svg" width="100%" alt="03 ENGINEERING STACK"/>
+
+<div align="center">
+
+**`languages`**<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js,sql&theme=dark"/>
+
+**`ai_ml`**<br/>
+<img src="https://img.shields.io/badge/NumPy-0a0e14?style=for-the-badge&logo=numpy&logoColor=00ff9c&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/Pandas-0a0e14?style=for-the-badge&logo=pandas&logoColor=00ff9c&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0a0e14?style=for-the-badge&logo=scikitlearn&logoColor=00ff9c&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/XGBoost-0a0e14?style=for-the-badge&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/NLP-0a0e14?style=for-the-badge&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0a0e14?style=for-the-badge&labelColor=0a0e14"/>
+<img src="https://img.shields.io/badge/RAG-0a0e14?style=for-the-badge&labelColor=0a0e14"/>
+
+**`backend`**<br/>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express&theme=dark"/><br/>
+<sub>`REST APIs` · `Authentication` · `API Integration` · `Backend Services` · `Database Design`</sub>
+
+**`databases`**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
+
+**`tools_cloud`**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,azure,vscode,postman&theme=dark"/><br/>
+<sub>`Power BI` · `Thunder Client` · `Jupyter`</sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ 04 HOW I THINK ═══════════════ -->
+<img src="assets/sec-04.svg" width="100%" alt="04 HOW I THINK"/>
+
+I don't want to stop at `"the model works."` I want to understand the system around it.
+
+<div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="DATA → ML/AI → LOGIC → API → BACKEND → PRODUCT"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════ 05 EXPLORING ═══════════════ -->
+<img src="assets/sec-05.svg" width="100%" alt="05 CURRENTLY EXPLORING"/>
+
 ```yaml
-SYSTEM:
-  status: "ACTIVE"
-
-LEARNING:
-  - Advanced DSA
-  - Backend Engineering
-  - AI Engineering
-  - RAG Architecture
-  - System Design
-  - Cloud & Deployment
-
-BUILDING:
-  - AI-powered applications
-  - Backend services
-  - ML projects
-
-EXPLORING:
+AI:
+  - RAG systems
+  - AI application architecture
   - Computer Vision
   - NLP
-  - Generative AI
-  - Data Engineering
+  - Machine Learning
+
+Backend:
+  - REST APIs
+  - Node.js / Express
+  - Django / Flask
+  - Databases
+  - Backend architecture
+
+Engineering:
+  - Data Structures & Algorithms
+  - System Design
+  - Clean Architecture
+  - Cloud & Deployment
 ```
----
-`> ENGINEERING.PHILOSOPHY`
-```text
-                    ┌───────────────┐
-                    │     IDEA      │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   PROTOTYPE   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     BREAK     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    DEBUG      │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  UNDERSTAND   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    REBUILD    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     SHIP      │
-                    └───────────────┘
-```
-> **The goal isn't just to make it work.  
-> The goal is to understand why it works.**
----
-`> CREATIVE.MODULE`
-```text
-╔══════════════════════════════════════════╗
-║              CREATIVE CORE               ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  VIDEO EDITING                           ║
-║                                          ║
-║  Premiere Pro  ████████████████████      ║
-║  After Effects ██████████████████░░      ║
-║  Photoshop     ████████████████░░░░      ║
-║                                          ║
-║  VISUAL STORYTELLING                     ║
-║  COLOR · MOTION · PACING · COMPOSITION   ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
-I come from a creative background as well — working with video editing, motion, color and visual storytelling.
-That experience influences how I approach software:
-function matters — but so does presentation.
----
-`> GITHUB.TELEMETRY`
+
+<br/>
+
+<!-- ═══════════════ 06 BEYOND CODE ═══════════════ -->
+<img src="assets/sec-06.svg" width="100%" alt="06 BEYOND CODE"/>
+
+I also come from a **visual / creative background**.
+
+<img src="https://skillicons.dev/icons?i=pr,ae,ps&theme=dark"/>
+
+Video editing taught me something that carries into engineering:
+
+> **Details matter.** Timing, hierarchy, composition and user experience all change how something is perceived, whether it's a video, an interface, or a software product.
+
+<br/>
+
+<!-- ═══════════════ 07 GITHUB SIGNAL ═══════════════ -->
+<img src="assets/sec-07.svg" width="100%" alt="07 GITHUB SIGNAL"/>
+
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranjal-sh-git&show_icons=true&hide_border=true&bg_color=050805&title_color=00ff41&text_color=7CFF7C&icon_color=00ff41&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal-sh-git&hide_border=true&background=050805&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7CFF7C&dates=4CAF50&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-<br/><br/>
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-sh-git&layout=compact&hide_border=true&bg_color=050805&title_color=00ff41&text_color=7CFF7C&langs_count=8"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranjal-sh-git&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9&icon_color=00e5ff&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-sh-git&layout=compact&hide_border=true&bg_color=0a0e14&title_color=00ff9c&text_color=c9d1d9"/>
+
+<img src="https://streak-stats.demolab.com?user=Pranjal-sh-git&hide_border=true&background=0a0e14&ring=00ff9c&fire=ff2e97&currStreakLabel=00ff9c&currStreakNum=c9d1d9&sideLabels=5c6773&sideNums=c9d1d9&dates=5c6773"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal-sh-git&bg_color=0a0e14&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true"/>
+
 </div>
----
-`> ACTIVITY.LOG`
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal-sh-git&bg_color=050805&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY"/>
-</div>
----
-`> CONNECTIONS`
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  GITHUB                                  │
-│  github.com/Pranjal-sh-git               │
-│                                          │
-│  LINKEDIN                                │
-│  linkedin.com/in/pranjal-sharma-75123332a│
-│                                          │
-│  STATUS                                  │
-│  ● OPEN TO BUILDING                      │
-│                                          │
-└──────────────────────────────────────────┘
+
+<br/>
+
+<!-- ═══════════════ 08 EXPERIMENTS ═══════════════ -->
+<img src="assets/sec-08.svg" width="100%" alt="08 EXPERIMENTS"/>
+
+Some repositories are **learning spaces, coursework, experiments and notes**. They aren't all meant to be polished products, and that's intentional. The interesting part of engineering is the iteration:
+
+```bash
+while true; do
+  idea && prototype && break && debug && understand && rebuild && ship
+done
 ```
+
+<br/>
+
 <div align="center">
-<a href="https://github.com/Pranjal-sh-git">
-<img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="https://www.linkedin.com/in/pranjal-sharma-75123332a">
-<img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-<br/><br/>
-```text
-> CONNECTION TERMINATED
-> SYSTEM REMAINS ONLINE
-> ─────────────────────
-> PRANJAL.SYS
-```
-<img src="https://komarev.com/ghpvc/?username=Pranjal-sh-git&style=flat-square&color=00ff41&label=SYSTEM+VISITORS"/>
-</div>
----
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:062b0b,100:020402&height=120&section=footer"/>
+<img src="assets/footer.svg" width="100%" alt="BUILD. BREAK. UNDERSTAND. REBUILD."/>
 </div>
