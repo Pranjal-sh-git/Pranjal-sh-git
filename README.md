@@ -1,143 +1,302 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Pranjal%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AIML%20Undergrad%20%7C%20Video%20Creator&descAlignY=60&descSize=18&animation=fadeIn" alt="Header Banner" width="100%" />
+# PRANJAL SHARMA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;I+train+models+that+think.;I+craft+videos+that+wow.;Always+learning%2C+always+building." alt="Typing SVG" />
+### AI/ML ENGINEERING · BACKEND · DATA
 
-<br /><br />
+`BUILDING SYSTEMS • EXPLORING AI • SOLVING PROBLEMS`
 
-<a href="https://www.linkedin.com/in/pranjal-sharma-75123332a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br/>
+
+<a href="https://github.com/Pranjal-sh-git">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Pranjal-sh-git&label=Profile+Views&color=BF5AF2&style=for-the-badge" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/pranjal-sharma-75123332a">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Pranjal-sh-git&style=flat-square&color=58a6ff&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+## `01` / ABOUT
 
-I'm an **AI/ML Undergrad** passionate about solving complex analytical problems and building reliable backend systems. Beyond code, I bring a creative edge — I craft and enhance **videos**, blending technical precision with visual storytelling.
+I'm an **AI/ML undergraduate** interested in building practical software around intelligent systems.
 
-| 🎯 Focus Area | 🚀 What I Do |
-|---|---|
-| 🤖 AI & Machine Learning | Training models, working with data pipelines |
-| 💻 Backend Engineering | Building REST APIs, databases & cloud systems |
-| 📊 Data & Analytics | SQL, MongoDB, Power BI dashboards |
-| 🎬 Video Crafting | Color grading, editing, visual enhancement |
-| ☁️ Cloud | Microsoft Azure deployments & services |
+My interests sit at the intersection of:
 
----
+```text
+Artificial Intelligence
+        +
+Machine Learning
+        +
+Backend Engineering
+        +
+Data
+        ↓
+   Real Products
+```
 
-## 🛠️ Tech Stack & Skills
+I enjoy going beyond the model itself — understanding the **data pipeline, APIs, backend services, databases, integrations, and deployment** that turn an idea into an actual application.
 
-**Languages**
+Currently working on becoming a stronger engineer through:
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
-</div>
-
-**Frameworks & Backend**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-
-</div>
-
-**Data & Cloud**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
-
-**🎨 Creative Tools**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" />
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/Adobe%20Express-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Express" />
-
-</div>
+- Machine Learning & AI Engineering
+- Backend & REST API development
+- RAG and AI-powered applications
+- Data analysis & predictive modelling
+- DSA & problem solving
+- Software architecture and system design
 
 ---
 
+## `02` / FEATURED WORK
 
-## 🎬 Creative Spotlight: Video Crafting
+### `01` — VisionIQ
 
-> *"Where logic meets aesthetics — I don't just write code, I tell stories."*
+> **AI-powered visual intelligence**
 
-In my editing workspace, I focus on:
+My flagship AI project exploring the integration of **computer vision, AI services, RAG, and backend systems** into a single application.
 
-| ✨ Skill | 📖 Description |
-|---|---|
-| 🎨 Visual Enhancement | Color grading, lighting correction & audio polish |
-| 🎞️ Engaging Storytelling | Dynamic cuts, pacing & visual transitions |
-| 📱 Content Optimization | Tailoring structure for platform-specific audiences |
+**Python · AI · Computer Vision · RAG · APIs**
+
+<a href="https://github.com/Pranjal-sh-git/visioniq">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=58a6ff"/>
+</a>
 
 ---
 
-## 📊 GitHub Stats & Performance
+### `02` — Recurring Expense Anomaly Tracker
+
+> **Detecting unusual patterns in recurring expenses**
+
+A backend-focused project exploring how recurring financial data can be processed to identify potentially anomalous behaviour.
+
+**JavaScript · Backend · Data Processing · Anomaly Detection**
+
+<a href="https://github.com/Pranjal-sh-git/recurring-expense-anomaly-tracker">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=58a6ff"/>
+</a>
+
+---
+
+### `03` — Surge Pricing App
+
+> **Predictive analytics for dynamic pricing**
+
+An application built around the problem of understanding and predicting surge-pricing behaviour.
+
+**JavaScript · Data · Predictive Analytics**
+
+<a href="https://github.com/Pranjal-sh-git/surge-pricing-app">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=58a6ff"/>
+</a>
+
+---
+
+### `04` — CineVault
+
+> **A movie-focused web application**
+
+A web project exploring frontend development, API-driven data and building a polished user-facing application.
+
+**JavaScript · Web Development · APIs**
+
+<a href="https://github.com/Pranjal-sh-git/CineVault">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=58a6ff"/>
+</a>
+
+---
+
+## `03` / ENGINEERING STACK
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,sql" />
+</p>
+
+### AI / ML
+
+```text
+Python
+NumPy
+Pandas
+Scikit-learn
+XGBoost
+Machine Learning
+NLP
+Computer Vision
+RAG
+```
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express" />
+</p>
+
+```text
+REST APIs
+Authentication
+API Integration
+Backend Services
+Database Design
+```
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### Tools / Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,azure,vscode,postman" />
+</p>
+
+`Power BI` · `Thunder Client` · `Jupyter`
+
+---
+
+## `04` / HOW I THINK ABOUT BUILDING
+
+I don't want to stop at:
+
+```text
+"the model works."
+```
+
+I want to understand the system around it:
+
+```text
+                ┌──────────────┐
+                │     DATA     │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │   ML / AI    │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │    LOGIC     │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │     API      │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │   BACKEND    │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │   PRODUCT    │
+                └──────────────┘
+```
+
+**Model → Service → System → Product**
+
+That's the direction I'm trying to grow toward.
+
+---
+
+## `05` / CURRENTLY EXPLORING
+
+```yaml
+AI:
+  - RAG systems
+  - AI application architecture
+  - Computer Vision
+  - NLP
+  - Machine Learning
+
+Backend:
+  - REST APIs
+  - Node.js / Express
+  - Django / Flask
+  - Databases
+  - Backend architecture
+
+Engineering:
+  - Data Structures & Algorithms
+  - System Design
+  - Clean Architecture
+  - Cloud & Deployment
+```
+
+---
+
+## `06` / BEYOND CODE
+
+I also come from a **visual / creative background**.
+
+I work with:
+
+`Premiere Pro` · `After Effects` · `Photoshop`
+
+Video editing taught me something that carries into engineering:
+
+> **Details matter.**
+
+Timing, hierarchy, composition and user experience all change how something is perceived — whether it's a video, interface, or software product.
+
+---
+
+## `07` / GITHUB SIGNAL
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-sh-git&show_icons=true&theme=radical&border_color=BF5AF2&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Pranjal-sh-git&theme=radical&ring=BF5AF2&fire=FF2D78&border=BF5AF2&cache_seconds=86400" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-sh-git&layout=compact&theme=radical&border_color=BF5AF2&hide_border=false&cache_seconds=86400&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pranjal-sh-git&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal-sh-git&hide_border=true&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e"/>
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-sh-git&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=8b949e"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `08` / OPEN SOURCE & EXPERIMENTS
 
-<div align="center">
+Some repositories exist as **learning spaces, coursework, experiments and notes**.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal-sh-git&theme=tokyo-night&bg_color=0d0d0d&color=BF5AF2&line=00F5FF&point=FF2D78&area=true&hide_border=false" alt="Activity Graph" width="98%" />
+They aren't all meant to be polished products — and that's intentional.
 
-</div>
+The interesting part of engineering is often the iteration:
+
+```text
+idea
+ ↓
+prototype
+ ↓
+break
+ ↓
+debug
+ ↓
+understand
+ ↓
+rebuild
+ ↓
+ship
+```
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranjal-sh-git&theme=radical&no-bg=true&no-border=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+### `BUILD. BREAK. UNDERSTAND. REBUILD.`
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;It+means+a+lot+to+me+%F0%9F%92%9C;Let%27s+connect+and+build+something+amazing!;Happy+Coding!+%F0%9F%9A%80;See+you+around+%E2%80%94+Pranjal+%F0%9F%91%8B" alt="Thank You Animation" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" alt="Footer Wave" width="100%" />
+<sub>Pranjal Sharma · AI/ML · Backend · Data</sub>
 
 </div>
