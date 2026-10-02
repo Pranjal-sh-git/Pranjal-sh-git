@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 64" width="960" height="64" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace">
+<defs><filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<polygon points="24.0,14.0 356.8,14.0 356.8,14.0 356.8,38.0 342.8,52.0 24.0,52.0 24.0,52.0 24.0,14.0" fill="#00f0ff" opacity=".9"><animate attributeName="opacity" values=".9;.9;.9;.2;.9;.9" dur="3.4s" repeatCount="indefinite"/></polygon>
+<polygon points="18.0,10.0 350.8,10.0 350.8,10.0 350.8,34.0 336.8,48.0 18.0,48.0 18.0,48.0 18.0,10.0" fill="#fcee0a"/>
+<text x="40" y="38" font-size="22" fill="#000" text-anchor="start" font-weight="800" textLength="288.8" lengthAdjust="spacing" xml:space="preserve" >07 // GITHUB_SIGNAL</text>
+<line x1="372.79999999999995" y1="29" x2="840" y2="29" stroke="#3a2a55" stroke-width="2"/>
+<line x1="372.79999999999995" y1="29" x2="840" y2="29" stroke="#ff2a6d" stroke-width="2" stroke-dasharray="40 600"><animate attributeName="stroke-dashoffset" values="640;0" dur="3s" repeatCount="indefinite"/></line>
+<polygon points="860,19 874,29 860,39 852,39 866,29 852,19" fill="#ff2a6d"><animate attributeName="opacity" values="1;.15;1" dur="1.4s" begin="0.0s" repeatCount="indefinite"/></polygon>
+<polygon points="882,19 896,29 882,39 874,39 888,29 874,19" fill="#ff2a6d"><animate attributeName="opacity" values="1;.15;1" dur="1.4s" begin="0.2s" repeatCount="indefinite"/></polygon>
+<polygon points="904,19 918,29 904,39 896,39 910,29 896,19" fill="#ff2a6d"><animate attributeName="opacity" values="1;.15;1" dur="1.4s" begin="0.4s" repeatCount="indefinite"/></polygon>
+<polygon points="926,19 940,29 926,39 918,39 932,29 918,19" fill="#ff2a6d"><animate attributeName="opacity" values="1;.15;1" dur="1.4s" begin="0.6s" repeatCount="indefinite"/></polygon>
+</svg>

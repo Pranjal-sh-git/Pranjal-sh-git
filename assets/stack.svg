@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 408" width="960" height="408" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace">
+<defs><filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<polygon points="4.0,6.0 956.0,6.0 956.0,6.0 956.0,44.0 940.0,60.0 4.0,60.0 4.0,60.0 4.0,6.0" fill="#130b1f" stroke="#fcee0a" stroke-opacity=".55" stroke-width="1.5"/>
+<polygon points="4.0,6.0 140.0,6.0 140.0,6.0 140.0,60.0 140.0,60.0 4.0,60.0 4.0,60.0 4.0,6.0" fill="#fcee0a" opacity=".12"/>
+<rect x="4" y="6" width="5" height="54" fill="#fcee0a"/>
+<text x="24" y="38.0" font-size="13" fill="#fcee0a" text-anchor="start" font-weight="800" textLength="79.2" lengthAdjust="spacing" xml:space="preserve" >LANGUAGES</text>
+<polygon points="166.0,18.0 230.8,18.0 230.8,18.0 230.8,38.0 224.8,44.0 160.0,44.0 160.0,44.0 160.0,24.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="195.4" y="35" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="45.0" lengthAdjust="spacing" xml:space="preserve" >Python</text>
+<polygon points="246.8,18.0 288.2,18.0 288.2,18.0 288.2,38.0 282.2,44.0 240.8,44.0 240.8,44.0 240.8,24.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="264.5" y="35" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="22.5" lengthAdjust="spacing" xml:space="preserve" >C++</text>
+<polygon points="304.2,18.0 353.4,18.0 353.4,18.0 353.4,38.0 347.4,44.0 298.2,44.0 298.2,44.0 298.2,24.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="325.8" y="35" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="30.0" lengthAdjust="spacing" xml:space="preserve" >Java</text>
+<polygon points="369.4,18.0 465.4,18.0 465.4,18.0 465.4,38.0 459.4,44.0 363.4,44.0 363.4,44.0 363.4,24.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="414.4" y="35" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="75.0" lengthAdjust="spacing" xml:space="preserve" >JavaScript</text>
+<polygon points="481.4,18.0 522.8,18.0 522.8,18.0 522.8,38.0 516.8,44.0 475.4,44.0 475.4,44.0 475.4,24.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="499.09999999999997" y="35" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="22.5" lengthAdjust="spacing" xml:space="preserve" >SQL</text>
+<polygon points="4.0,72.0 956.0,72.0 956.0,72.0 956.0,146.0 940.0,162.0 4.0,162.0 4.0,162.0 4.0,72.0" fill="#130b1f" stroke="#00f0ff" stroke-opacity=".55" stroke-width="1.5"/>
+<polygon points="4.0,72.0 140.0,72.0 140.0,72.0 140.0,162.0 140.0,162.0 4.0,162.0 4.0,162.0 4.0,72.0" fill="#00f0ff" opacity=".12"/>
+<rect x="4" y="72" width="5" height="90" fill="#00f0ff"/>
+<text x="24" y="122.0" font-size="13" fill="#00f0ff" text-anchor="start" font-weight="800" textLength="61.6" lengthAdjust="spacing" xml:space="preserve" >AI / ML</text>
+<polygon points="166.0,84.0 230.8,84.0 230.8,84.0 230.8,104.0 224.8,110.0 160.0,110.0 160.0,110.0 160.0,90.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="195.4" y="101" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="45.0" lengthAdjust="spacing" xml:space="preserve" >Python</text>
+<polygon points="246.8,84.0 303.8,84.0 303.8,84.0 303.8,104.0 297.8,110.0 240.8,110.0 240.8,110.0 240.8,90.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="272.3" y="101" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="37.5" lengthAdjust="spacing" xml:space="preserve" >NumPy</text>
+<polygon points="319.8,84.0 384.6,84.0 384.6,84.0 384.6,104.0 378.6,110.0 313.8,110.0 313.8,110.0 313.8,90.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="349.2" y="101" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="45.0" lengthAdjust="spacing" xml:space="preserve" >Pandas</text>
+<polygon points="400.6,84.0 512.2,84.0 512.2,84.0 512.2,104.0 506.2,110.0 394.6,110.0 394.6,110.0 394.6,90.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="453.40000000000003" y="101" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="90.0" lengthAdjust="spacing" xml:space="preserve" >Scikit-learn</text>
+<polygon points="528.2,84.0 600.8,84.0 600.8,84.0 600.8,104.0 594.8,110.0 522.2,110.0 522.2,110.0 522.2,90.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="561.5" y="101" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="52.5" lengthAdjust="spacing" xml:space="preserve" >XGBoost</text>
+<polygon points="616.8,84.0 759.6,84.0 759.6,84.0 759.6,104.0 753.6,110.0 610.8,110.0 610.8,110.0 610.8,90.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="685.2" y="101" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="120.0" lengthAdjust="spacing" xml:space="preserve" >Machine Learning</text>
+<polygon points="775.6,84.0 817.0,84.0 817.0,84.0 817.0,104.0 811.0,110.0 769.6,110.0 769.6,110.0 769.6,90.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="793.3000000000002" y="101" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="22.5" lengthAdjust="spacing" xml:space="preserve" >NLP</text>
+<polygon points="166.0,120.0 301.0,120.0 301.0,120.0 301.0,140.0 295.0,146.0 160.0,146.0 160.0,146.0 160.0,126.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="230.5" y="137" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="112.5" lengthAdjust="spacing" xml:space="preserve" >Computer Vision</text>
+<polygon points="317.0,120.0 358.4,120.0 358.4,120.0 358.4,140.0 352.4,146.0 311.0,146.0 311.0,146.0 311.0,126.0" fill="#00f0ff" fill-opacity=".08" stroke="#00f0ff" stroke-opacity=".8"/>
+<text x="334.7" y="137" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="22.5" lengthAdjust="spacing" xml:space="preserve" >RAG</text>
+<polygon points="4.0,174.0 956.0,174.0 956.0,174.0 956.0,248.0 940.0,264.0 4.0,264.0 4.0,264.0 4.0,174.0" fill="#130b1f" stroke="#ff2a6d" stroke-opacity=".55" stroke-width="1.5"/>
+<polygon points="4.0,174.0 140.0,174.0 140.0,174.0 140.0,264.0 140.0,264.0 4.0,264.0 4.0,264.0 4.0,174.0" fill="#ff2a6d" opacity=".12"/>
+<rect x="4" y="174" width="5" height="90" fill="#ff2a6d"/>
+<text x="24" y="224.0" font-size="13" fill="#ff2a6d" text-anchor="start" font-weight="800" textLength="61.6" lengthAdjust="spacing" xml:space="preserve" >BACKEND</text>
+<polygon points="166.0,186.0 230.8,186.0 230.8,186.0 230.8,206.0 224.8,212.0 160.0,212.0 160.0,212.0 160.0,192.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="195.4" y="203" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="45.0" lengthAdjust="spacing" xml:space="preserve" >Django</text>
+<polygon points="246.8,186.0 303.8,186.0 303.8,186.0 303.8,206.0 297.8,212.0 240.8,212.0 240.8,212.0 240.8,192.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="272.3" y="203" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="37.5" lengthAdjust="spacing" xml:space="preserve" >Flask</text>
+<polygon points="319.8,186.0 392.4,186.0 392.4,186.0 392.4,206.0 386.4,212.0 313.8,212.0 313.8,212.0 313.8,192.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="353.1" y="203" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="52.5" lengthAdjust="spacing" xml:space="preserve" >Node.js</text>
+<polygon points="408.4,186.0 481.0,186.0 481.0,186.0 481.0,206.0 475.0,212.0 402.4,212.0 402.4,212.0 402.4,192.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="441.7" y="203" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="52.5" lengthAdjust="spacing" xml:space="preserve" >Express</text>
+<polygon points="497.0,186.0 585.2,186.0 585.2,186.0 585.2,206.0 579.2,212.0 491.0,212.0 491.0,212.0 491.0,192.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="538.1" y="203" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="67.5" lengthAdjust="spacing" xml:space="preserve" >REST APIs</text>
+<polygon points="601.2,186.0 728.4,186.0 728.4,186.0 728.4,206.0 722.4,212.0 595.2,212.0 595.2,212.0 595.2,192.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="661.8000000000001" y="203" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="105.0" lengthAdjust="spacing" xml:space="preserve" >Authentication</text>
+<polygon points="744.4,186.0 879.4,186.0 879.4,186.0 879.4,206.0 873.4,212.0 738.4,212.0 738.4,212.0 738.4,192.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="808.9000000000001" y="203" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="112.5" lengthAdjust="spacing" xml:space="preserve" >API Integration</text>
+<polygon points="166.0,222.0 308.8,222.0 308.8,222.0 308.8,242.0 302.8,248.0 160.0,248.0 160.0,248.0 160.0,228.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="234.4" y="239" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="120.0" lengthAdjust="spacing" xml:space="preserve" >Backend Services</text>
+<polygon points="324.8,222.0 459.8,222.0 459.8,222.0 459.8,242.0 453.8,248.0 318.8,248.0 318.8,248.0 318.8,228.0" fill="#ff2a6d" fill-opacity=".08" stroke="#ff2a6d" stroke-opacity=".8"/>
+<text x="389.3" y="239" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="112.5" lengthAdjust="spacing" xml:space="preserve" >Database Design</text>
+<polygon points="4.0,276.0 956.0,276.0 956.0,276.0 956.0,314.0 940.0,330.0 4.0,330.0 4.0,330.0 4.0,276.0" fill="#130b1f" stroke="#9d6bff" stroke-opacity=".55" stroke-width="1.5"/>
+<polygon points="4.0,276.0 140.0,276.0 140.0,276.0 140.0,330.0 140.0,330.0 4.0,330.0 4.0,330.0 4.0,276.0" fill="#9d6bff" opacity=".12"/>
+<rect x="4" y="276" width="5" height="54" fill="#9d6bff"/>
+<text x="24" y="308.0" font-size="13" fill="#9d6bff" text-anchor="start" font-weight="800" textLength="79.2" lengthAdjust="spacing" xml:space="preserve" >DATABASES</text>
+<polygon points="166.0,288.0 238.6,288.0 238.6,288.0 238.6,308.0 232.6,314.0 160.0,314.0 160.0,314.0 160.0,294.0" fill="#9d6bff" fill-opacity=".08" stroke="#9d6bff" stroke-opacity=".8"/>
+<text x="199.3" y="305" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="52.5" lengthAdjust="spacing" xml:space="preserve" >MongoDB</text>
+<polygon points="254.6,288.0 311.6,288.0 311.6,288.0 311.6,308.0 305.6,314.0 248.6,314.0 248.6,314.0 248.6,294.0" fill="#9d6bff" fill-opacity=".08" stroke="#9d6bff" stroke-opacity=".8"/>
+<text x="280.1" y="305" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="37.5" lengthAdjust="spacing" xml:space="preserve" >MySQL</text>
+<polygon points="327.6,288.0 392.4,288.0 392.4,288.0 392.4,308.0 386.4,314.0 321.6,314.0 321.6,314.0 321.6,294.0" fill="#9d6bff" fill-opacity=".08" stroke="#9d6bff" stroke-opacity=".8"/>
+<text x="357.0" y="305" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="45.0" lengthAdjust="spacing" xml:space="preserve" >SQLite</text>
+<polygon points="4.0,342.0 956.0,342.0 956.0,342.0 956.0,380.0 940.0,396.0 4.0,396.0 4.0,396.0 4.0,342.0" fill="#130b1f" stroke="#fcee0a" stroke-opacity=".55" stroke-width="1.5"/>
+<polygon points="4.0,342.0 140.0,342.0 140.0,342.0 140.0,396.0 140.0,396.0 4.0,396.0 4.0,396.0 4.0,342.0" fill="#fcee0a" opacity=".12"/>
+<rect x="4" y="342" width="5" height="54" fill="#fcee0a"/>
+<text x="24" y="374.0" font-size="13" fill="#fcee0a" text-anchor="start" font-weight="800" textLength="114.4" lengthAdjust="spacing" xml:space="preserve" >TOOLS / CLOUD</text>
+<polygon points="166.0,354.0 207.4,354.0 207.4,354.0 207.4,374.0 201.4,380.0 160.0,380.0 160.0,380.0 160.0,360.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="183.7" y="371" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="22.5" lengthAdjust="spacing" xml:space="preserve" >Git</text>
+<polygon points="223.4,354.0 288.2,354.0 288.2,354.0 288.2,374.0 282.2,380.0 217.4,380.0 217.4,380.0 217.4,360.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="252.8" y="371" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="45.0" lengthAdjust="spacing" xml:space="preserve" >GitHub</text>
+<polygon points="304.2,354.0 361.2,354.0 361.2,354.0 361.2,374.0 355.2,380.0 298.2,380.0 298.2,380.0 298.2,360.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="329.7" y="371" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="37.5" lengthAdjust="spacing" xml:space="preserve" >Azure</text>
+<polygon points="377.2,354.0 449.8,354.0 449.8,354.0 449.8,374.0 443.8,380.0 371.2,380.0 371.2,380.0 371.2,360.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="410.5" y="371" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="52.5" lengthAdjust="spacing" xml:space="preserve" >VS Code</text>
+<polygon points="465.8,354.0 538.4,354.0 538.4,354.0 538.4,374.0 532.4,380.0 459.8,380.0 459.8,380.0 459.8,360.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="499.09999999999997" y="371" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="52.5" lengthAdjust="spacing" xml:space="preserve" >Postman</text>
+<polygon points="554.4,354.0 634.8,354.0 634.8,354.0 634.8,374.0 628.8,380.0 548.4,380.0 548.4,380.0 548.4,360.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="591.6" y="371" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="60.0" lengthAdjust="spacing" xml:space="preserve" >Power BI</text>
+<polygon points="650.8,354.0 778.0,354.0 778.0,354.0 778.0,374.0 772.0,380.0 644.8,380.0 644.8,380.0 644.8,360.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="711.4" y="371" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="105.0" lengthAdjust="spacing" xml:space="preserve" >Thunder Client</text>
+<polygon points="794.0,354.0 866.6,354.0 866.6,354.0 866.6,374.0 860.6,380.0 788.0,380.0 788.0,380.0 788.0,360.0" fill="#fcee0a" fill-opacity=".08" stroke="#fcee0a" stroke-opacity=".8"/>
+<text x="827.3" y="371" font-size="12.5" fill="#e8e4f0" text-anchor="middle" textLength="52.5" lengthAdjust="spacing" xml:space="preserve" >Jupyter</text>
+</svg>

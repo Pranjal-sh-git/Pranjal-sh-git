@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 250" width="470" height="250" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace">
+<defs><filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="hz" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="5" height="10" fill="#00f0ff"/></pattern><pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".035"/></pattern></defs>
+<polygon points="22.0,2.0 468.0,2.0 468.0,2.0 468.0,228.0 448.0,248.0 2.0,248.0 2.0,248.0 2.0,22.0" fill="#130b1f" stroke="#00f0ff" stroke-width="2"><animate attributeName="stroke-opacity" values="1;.45;1" dur="3.2s" repeatCount="indefinite"/></polygon>
+<polygon points="22.0,2.0 468.0,2.0 468.0,2.0 468.0,228.0 448.0,248.0 2.0,248.0 2.0,248.0 2.0,22.0" fill="url(#s)"/>
+<polygon points="24.0,14.0 78.0,14.0 78.0,14.0 78.0,28.0 70.0,36.0 24.0,36.0 24.0,36.0 24.0,14.0" fill="#00f0ff"/>
+<text x="34" y="30" font-size="12" fill="#000" text-anchor="start" font-weight="800" textLength="36.0" lengthAdjust="spacing" xml:space="preserve" >ID:02</text>
+<text x="24" y="66" font-size="16" fill="#fff" text-anchor="start" font-weight="800" textLength="316.8" lengthAdjust="spacing" xml:space="preserve" filter="url(#glow)">RECURRING EXPENSE ANOMALY TRACKER</text>
+<text x="24" y="86" font-size="10.5" fill="#00f0ff" text-anchor="start" textLength="350.4" lengthAdjust="spacing" xml:space="preserve" >DETECTING UNUSUAL PATTERNS IN RECURRING EXPENSES</text>
+<text x="24" y="114" font-size="12.5" fill="#b9b1cc" text-anchor="start" textLength="367.5" lengthAdjust="spacing" xml:space="preserve" >A backend-focused project exploring how recurring</text>
+<text x="24" y="132" font-size="12.5" fill="#b9b1cc" text-anchor="start" textLength="412.5" lengthAdjust="spacing" xml:space="preserve" >financial data can be processed to identify potentially</text>
+<text x="24" y="150" font-size="12.5" fill="#b9b1cc" text-anchor="start" textLength="150.0" lengthAdjust="spacing" xml:space="preserve" >anomalous behaviour.</text>
+<polygon points="29.0,186.0 106.0,186.0 106.0,186.0 106.0,203.0 101.0,208.0 24.0,208.0 24.0,208.0 24.0,191.0" fill="none" stroke="#00f0ff" opacity=".7"/>
+<text x="65.0" y="201" font-size="10" fill="#00f0ff" text-anchor="middle" textLength="60.0" lengthAdjust="spacing" xml:space="preserve" >JAVASCRIPT</text>
+<polygon points="119.0,186.0 176.8,186.0 176.8,186.0 176.8,203.0 171.8,208.0 114.0,208.0 114.0,208.0 114.0,191.0" fill="none" stroke="#00f0ff" opacity=".7"/>
+<text x="145.4" y="201" font-size="10" fill="#00f0ff" text-anchor="middle" textLength="42.0" lengthAdjust="spacing" xml:space="preserve" >BACKEND</text>
+<polygon points="189.8,186.0 298.8,186.0 298.8,186.0 298.8,203.0 293.8,208.0 184.8,208.0 184.8,208.0 184.8,191.0" fill="none" stroke="#00f0ff" opacity=".7"/>
+<text x="241.8" y="201" font-size="10" fill="#00f0ff" text-anchor="middle" textLength="90.0" lengthAdjust="spacing" xml:space="preserve" >DATA PROCESSING</text>
+<polygon points="311.8,186.0 433.6,186.0 433.6,186.0 433.6,203.0 428.6,208.0 306.8,208.0 306.8,208.0 306.8,191.0" fill="none" stroke="#00f0ff" opacity=".7"/>
+<text x="370.20000000000005" y="201" font-size="10" fill="#00f0ff" text-anchor="middle" textLength="102.0" lengthAdjust="spacing" xml:space="preserve" >ANOMALY DETECTION</text>
+<rect x="24" y="226" width="64" height="6" fill="url(#hz)"/>
+<text x="442" y="236" font-size="11" fill="#00f0ff" text-anchor="end" textLength="106.4" lengthAdjust="spacing" xml:space="preserve" >ACCESS REPO &gt;&gt;</text>
+</svg>

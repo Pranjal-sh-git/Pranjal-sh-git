@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 250" width="470" height="250" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace">
+<defs><filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="hz" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="5" height="10" fill="#fcee0a"/></pattern><pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".035"/></pattern></defs>
+<polygon points="22.0,2.0 468.0,2.0 468.0,2.0 468.0,228.0 448.0,248.0 2.0,248.0 2.0,248.0 2.0,22.0" fill="#130b1f" stroke="#fcee0a" stroke-width="2"><animate attributeName="stroke-opacity" values="1;.45;1" dur="3.2s" repeatCount="indefinite"/></polygon>
+<polygon points="22.0,2.0 468.0,2.0 468.0,2.0 468.0,228.0 448.0,248.0 2.0,248.0 2.0,248.0 2.0,22.0" fill="url(#s)"/>
+<polygon points="24.0,14.0 78.0,14.0 78.0,14.0 78.0,28.0 70.0,36.0 24.0,36.0 24.0,36.0 24.0,14.0" fill="#fcee0a"/>
+<text x="34" y="30" font-size="12" fill="#000" text-anchor="start" font-weight="800" textLength="36.0" lengthAdjust="spacing" xml:space="preserve" >ID:03</text>
+<text x="24" y="66" font-size="20" fill="#fff" text-anchor="start" font-weight="800" textLength="204.0" lengthAdjust="spacing" xml:space="preserve" filter="url(#glow)">SURGE PRICING APP</text>
+<text x="24" y="86" font-size="10.5" fill="#fcee0a" text-anchor="start" textLength="292.0" lengthAdjust="spacing" xml:space="preserve" >PREDICTIVE ANALYTICS FOR DYNAMIC PRICING</text>
+<text x="24" y="114" font-size="12.5" fill="#b9b1cc" text-anchor="start" textLength="420.0" lengthAdjust="spacing" xml:space="preserve" >An application built around the problem of understanding</text>
+<text x="24" y="132" font-size="12.5" fill="#b9b1cc" text-anchor="start" textLength="292.5" lengthAdjust="spacing" xml:space="preserve" >and predicting surge-pricing behaviour.</text>
+<polygon points="29.0,186.0 106.0,186.0 106.0,186.0 106.0,203.0 101.0,208.0 24.0,208.0 24.0,208.0 24.0,191.0" fill="none" stroke="#fcee0a" opacity=".7"/>
+<text x="65.0" y="201" font-size="10" fill="#fcee0a" text-anchor="middle" textLength="60.0" lengthAdjust="spacing" xml:space="preserve" >JAVASCRIPT</text>
+<polygon points="119.0,186.0 157.6,186.0 157.6,186.0 157.6,203.0 152.6,208.0 114.0,208.0 114.0,208.0 114.0,191.0" fill="none" stroke="#fcee0a" opacity=".7"/>
+<text x="135.8" y="201" font-size="10" fill="#fcee0a" text-anchor="middle" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" >DATA</text>
+<polygon points="170.6,186.0 311.6,186.0 311.6,186.0 311.6,203.0 306.6,208.0 165.6,208.0 165.6,208.0 165.6,191.0" fill="none" stroke="#fcee0a" opacity=".7"/>
+<text x="238.6" y="201" font-size="10" fill="#fcee0a" text-anchor="middle" textLength="120.0" lengthAdjust="spacing" xml:space="preserve" >PREDICTIVE ANALYTICS</text>
+<rect x="24" y="226" width="64" height="6" fill="url(#hz)"/>
+<text x="442" y="236" font-size="11" fill="#fcee0a" text-anchor="end" textLength="106.4" lengthAdjust="spacing" xml:space="preserve" >ACCESS REPO &gt;&gt;</text>
+</svg>

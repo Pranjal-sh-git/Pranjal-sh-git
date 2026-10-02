@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 250" width="470" height="250" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace">
+<defs><filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="hz" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="5" height="10" fill="#ff2a6d"/></pattern><pattern id="s" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".035"/></pattern></defs>
+<polygon points="22.0,2.0 468.0,2.0 468.0,2.0 468.0,228.0 448.0,248.0 2.0,248.0 2.0,248.0 2.0,22.0" fill="#130b1f" stroke="#ff2a6d" stroke-width="2"><animate attributeName="stroke-opacity" values="1;.45;1" dur="3.2s" repeatCount="indefinite"/></polygon>
+<polygon points="22.0,2.0 468.0,2.0 468.0,2.0 468.0,228.0 448.0,248.0 2.0,248.0 2.0,248.0 2.0,22.0" fill="url(#s)"/>
+<polygon points="24.0,14.0 78.0,14.0 78.0,14.0 78.0,28.0 70.0,36.0 24.0,36.0 24.0,36.0 24.0,14.0" fill="#ff2a6d"/>
+<text x="34" y="30" font-size="12" fill="#000" text-anchor="start" font-weight="800" textLength="36.0" lengthAdjust="spacing" xml:space="preserve" >ID:01</text>
+<polygon points="364.0,14.0 444.0,14.0 444.0,14.0 444.0,36.0 444.0,36.0 358.0,36.0 358.0,36.0 358.0,20.0" fill="none" stroke="#ff2a6d"/>
+<text x="401" y="30" font-size="11" fill="#ff2a6d" text-anchor="middle" textLength="68.8" lengthAdjust="spacing" xml:space="preserve" >FLAGSHIP</text>
+<text x="24" y="66" font-size="20" fill="#fff" text-anchor="start" font-weight="800" textLength="96.0" lengthAdjust="spacing" xml:space="preserve" filter="url(#glow)">VISIONIQ</text>
+<text x="24" y="86" font-size="10.5" fill="#ff2a6d" text-anchor="start" textLength="219.0" lengthAdjust="spacing" xml:space="preserve" >AI-POWERED VISUAL INTELLIGENCE</text>
+<text x="24" y="114" font-size="12.5" fill="#b9b1cc" text-anchor="start" textLength="382.5" lengthAdjust="spacing" xml:space="preserve" >My flagship AI project exploring the integration of</text>
+<text x="24" y="132" font-size="12.5" fill="#b9b1cc" text-anchor="start" textLength="405.0" lengthAdjust="spacing" xml:space="preserve" >computer vision, AI services, RAG, and backend systems</text>
+<text x="24" y="150" font-size="12.5" fill="#b9b1cc" text-anchor="start" textLength="195.0" lengthAdjust="spacing" xml:space="preserve" >into a single application.</text>
+<polygon points="29.0,186.0 80.4,186.0 80.4,186.0 80.4,203.0 75.4,208.0 24.0,208.0 24.0,208.0 24.0,191.0" fill="none" stroke="#ff2a6d" opacity=".7"/>
+<text x="52.2" y="201" font-size="10" fill="#ff2a6d" text-anchor="middle" textLength="36.0" lengthAdjust="spacing" xml:space="preserve" >PYTHON</text>
+<polygon points="93.4,186.0 119.2,186.0 119.2,186.0 119.2,203.0 114.2,208.0 88.4,208.0 88.4,208.0 88.4,191.0" fill="none" stroke="#ff2a6d" opacity=".7"/>
+<text x="103.80000000000001" y="201" font-size="10" fill="#ff2a6d" text-anchor="middle" textLength="12.0" lengthAdjust="spacing" xml:space="preserve" >AI</text>
+<polygon points="132.2,186.0 241.2,186.0 241.2,186.0 241.2,203.0 236.2,208.0 127.2,208.0 127.2,208.0 127.2,191.0" fill="none" stroke="#ff2a6d" opacity=".7"/>
+<text x="184.2" y="201" font-size="10" fill="#ff2a6d" text-anchor="middle" textLength="90.0" lengthAdjust="spacing" xml:space="preserve" >COMPUTER VISION</text>
+<polygon points="254.2,186.0 286.4,186.0 286.4,186.0 286.4,203.0 281.4,208.0 249.2,208.0 249.2,208.0 249.2,191.0" fill="none" stroke="#ff2a6d" opacity=".7"/>
+<text x="267.8" y="201" font-size="10" fill="#ff2a6d" text-anchor="middle" textLength="18.0" lengthAdjust="spacing" xml:space="preserve" >RAG</text>
+<polygon points="299.4,186.0 338.0,186.0 338.0,186.0 338.0,203.0 333.0,208.0 294.4,208.0 294.4,208.0 294.4,191.0" fill="none" stroke="#ff2a6d" opacity=".7"/>
+<text x="316.2" y="201" font-size="10" fill="#ff2a6d" text-anchor="middle" textLength="24.0" lengthAdjust="spacing" xml:space="preserve" >APIs</text>
+<rect x="24" y="226" width="64" height="6" fill="url(#hz)"/>
+<text x="442" y="236" font-size="11" fill="#ff2a6d" text-anchor="end" textLength="106.4" lengthAdjust="spacing" xml:space="preserve" >ACCESS REPO &gt;&gt;</text>
+</svg>

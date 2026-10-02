@@ -1,326 +1,122 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/hero?username=Pranjal-sh-git&theme=matrix&style=aura" alt="GitSkins Animated Hero" width="860" />
+<img src="assets/hero.svg" width="100%" alt="PRANJAL SHARMA — AI/ML Engineering · Backend · Data"/>
 
-<br/><br/>
-
-<img src="https://www.gitskins.com/api/section/social?username=Pranjal-sh-git&theme=matrix&style=aura" alt="GitSkins Animated Social Row" width="860" />
-
-</div>
-
----
-
-## `> WHOAMI`
-
-```text
-PRANJAL SHARMA
-
-AI/ML UNDERGRADUATE
-BACKEND • DATA • AI ENGINEERING
-
-I build practical software around intelligent systems.
-
-My focus is not only the model itself,
-but the system around it:
-
-DATA → MODEL → LOGIC → API → BACKEND → PRODUCT
-```
-
-I enjoy turning ideas into working applications and learning by building, debugging, and rebuilding.
-
-### Current focus
-
-`AI / ML` · `RAG` · `Backend Engineering` · `REST APIs` · `Data` · `DSA`
-
----
-
-<div align="center">
-
-## `> BUILDING IN PUBLIC`
-
-<img src="https://www.gitskins.com/api/section/highlights?username=Pranjal-sh-git&theme=matrix&style=aura" alt="GitSkins Animated Highlights" width="860" />
-
-</div>
-
----
-
-## `> WHAT I'M SHIPPING`
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/projects?username=Pranjal-sh-git&theme=matrix&style=aura" alt="GitSkins Animated Projects" width="860" />
-
-</div>
-
----
-
-## `> SELECTED WORK`
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### VisionIQ
-
-AI-powered visual intelligence project exploring computer vision, AI services, RAG and backend integration.
-
-**Python · AI · RAG**
-
-<a href="https://github.com/Pranjal-sh-git/visioniq">
-View repository →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### Recurring Expense Anomaly Tracker
-
-Backend project focused on recurring expense analysis and identifying unusual patterns in financial data.
-
-**JavaScript · Backend · Data**
-
-<a href="https://github.com/Pranjal-sh-git/recurring-expense-anomaly-tracker">
-View repository →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### CineVault
-
-Movie-focused web application exploring frontend development and API-driven data.
-
-**JavaScript · Web · APIs**
-
-<a href="https://github.com/Pranjal-sh-git/CineVault">
-View repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### Surge Pricing App
-
-Application exploring dynamic pricing and predictive analytics.
-
-**JavaScript · Data**
-
-<a href="https://github.com/Pranjal-sh-git/surge-pricing-app">
-View repository →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### Stockaly
-
-Inventory management system exploring application workflows, APIs and database-backed systems.
-
-**Django · Flask · SQLite**
-
-<a href="https://github.com/Pranjal-sh-git/Stockaly-repository">
-View repository →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### Inventory Management System
-
-Earlier inventory-focused web engineering project.
-
-**Python · Web · Database**
-
-<a href="https://github.com/Pranjal-sh-git/Inventory-Management-System">
-View repository →
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `> SIGNAL`
-
-<img src="https://www.gitskins.com/api/section/stats?username=Pranjal-sh-git&theme=matrix&style=aura" alt="GitSkins Animated Stats" width="860" />
-
-</div>
-
----
-
-<div align="center">
-
-## `> STACK`
-
-<img src="https://www.gitskins.com/api/section/stack?username=Pranjal-sh-git&theme=matrix&style=aura" alt="GitSkins Animated Stack" width="860" />
-
-</div>
-
----
-
-## `> ENGINEERING CORE`
-
-### Languages
-
-```text
-Python
-C++
-Java
-JavaScript
-SQL
-```
-
-### AI / ML
-
-```text
-NumPy
-Pandas
-Scikit-learn
-XGBoost
-NLP
-Computer Vision
-Machine Learning
-RAG
-```
-
-### Backend
-
-```text
-Django
-Flask
-Node.js
-Express
-REST APIs
-Authentication
-API Integration
-```
-
-### Databases / Cloud
-
-```text
-MongoDB
-MySQL
-SQLite
-Microsoft Azure
-Power BI
-```
-
-### Tools
-
-```text
-Git
-GitHub
-VS Code
-Postman
-Thunder Client
-Jupyter
-```
-
----
-
-## `> CURRENT OPERATIONS`
-
-```yaml
-status: ACTIVE
-
-learning:
-  - Advanced DSA
-  - AI Engineering
-  - Backend Engineering
-  - RAG Architecture
-  - System Design
-  - Cloud & Deployment
-
-building:
-  - AI-powered applications
-  - Backend services
-  - Machine learning projects
-
-exploring:
-  - Computer Vision
-  - NLP
-  - Generative AI
-  - Data Engineering
-```
-
----
-
-<div align="center">
-
-## `> ACTIVITY`
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=Pranjal-sh-git&theme=matrix&style=aura" alt="GitSkins Animated Contribution Heatmap" width="860" />
-
-</div>
-
----
-
-## `> BEYOND CODE`
-
-I also work on the creative side with:
-
-`Premiere Pro` · `After Effects` · `Photoshop`
-
-Video editing taught me to care about **timing, hierarchy, composition, motion, and details** — principles that carry over into how I design software and user experiences.
-
-> **Good engineering should work.  
-> Good products should also feel intentional.**
-
----
-
-## `> ENGINEERING PHILOSOPHY`
-
-```text
-IDEA
- ↓
-PROTOTYPE
- ↓
-BREAK
- ↓
-DEBUG
- ↓
-UNDERSTAND
- ↓
-REBUILD
- ↓
-SHIP
-```
-
-> **I don't just want to make it work.  
-> I want to understand why it works.**
-
----
-
-<div align="center">
-
-## `> LET'S BUILD SOMETHING`
-
-Open to thoughtful collaboration, ambitious products, and useful open-source work.
+<img src="assets/terminal.svg" width="100%" alt="terminal intro"/>
 
 <br/>
 
-<img src="https://www.gitskins.com/api/section/social?username=Pranjal-sh-git&theme=matrix&style=aura" alt="GitSkins Animated Social Row" width="860" />
+<a href="https://github.com/Pranjal-sh-git"><img src="https://img.shields.io/badge/GitHub-0b0710?style=for-the-badge&logo=github&logoColor=fcee0a&labelColor=0b0710"/></a>
+<a href="https://www.linkedin.com/in/pranjal-sharma-75123332a"><img src="https://img.shields.io/badge/LinkedIn-0b0710?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0b0710"/></a>
+<img src="https://komarev.com/ghpvc/?username=Pranjal-sh-git&style=for-the-badge&color=fcee0a&labelColor=0b0710&label=PROFILE+VIEWS"/>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Pranjal-sh-git&style=flat-square&color=22c55e&label=PROFILE+VISITORS" alt="Profile Visitors" />
+<br/>
 
-<br/><br/>
+<img src="assets/sec-01.svg" width="100%" alt="01 ABOUT"/>
 
-<sub>PRANJAL.SYS · AI/ML · BACKEND · DATA</sub>
+I'm an **AI/ML undergraduate** interested in building practical software around intelligent systems.
 
+My interests sit at the intersection of:
+
+```text
+Artificial Intelligence + Machine Learning + Backend Engineering + Data  ──▶  Real Products
+```
+
+I enjoy going beyond the model itself, understanding the **data pipeline, APIs, backend services, databases, integrations, and deployment** that turn an idea into an actual application.
+
+Currently working on becoming a stronger engineer through:
+
+- Machine Learning & AI Engineering
+- Backend & REST API development
+- RAG and AI-powered applications
+- Data analysis & predictive modelling
+- DSA & problem solving
+- Software architecture and system design
+
+<br/>
+
+<img src="assets/sec-02.svg" width="100%" alt="02 FEATURED WORK"/>
+
+<div align="center">
+<table>
+<tr>
+<td><a href="https://github.com/Pranjal-sh-git/visioniq"><img src="assets/card-visioniq.svg" width="470" alt="VisionIQ"/></a></td>
+<td><a href="https://github.com/Pranjal-sh-git/recurring-expense-anomaly-tracker"><img src="assets/card-anomaly.svg" width="470" alt="Recurring Expense Anomaly Tracker"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Pranjal-sh-git/surge-pricing-app"><img src="assets/card-surge.svg" width="470" alt="Surge Pricing App"/></a></td>
+<td><a href="https://github.com/Pranjal-sh-git/CineVault"><img src="assets/card-cinevault.svg" width="470" alt="CineVault"/></a></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="assets/sec-03.svg" width="100%" alt="03 ENGINEERING STACK"/>
+
+<img src="assets/stack.svg" width="100%" alt="Languages, AI/ML, Backend, Databases, Tools"/>
+
+<br/>
+
+<img src="assets/sec-04.svg" width="100%" alt="04 HOW I THINK ABOUT BUILDING"/>
+
+I don't want to stop at *"the model works."*
+I want to understand the system around it:
+
+<img src="assets/pipeline.svg" width="100%" alt="DATA → ML/AI → LOGIC → API → BACKEND → PRODUCT"/>
+
+**Model → Service → System → Product.** That's the direction I'm trying to grow toward.
+
+<br/>
+
+<img src="assets/sec-05.svg" width="100%" alt="05 CURRENTLY EXPLORING"/>
+
+<img src="assets/exploring.svg" width="100%" alt="AI, Backend, Engineering"/>
+
+<br/>
+
+<img src="assets/sec-06.svg" width="100%" alt="06 BEYOND CODE"/>
+
+I also come from a **visual / creative background**.
+
+<img src="assets/beyond.svg" width="100%" alt="Premiere Pro, After Effects, Photoshop — Details matter."/>
+
+Video editing taught me something that carries into engineering: **details matter.** Timing, hierarchy, composition and user experience all change how something is perceived, whether it's a video, interface, or software product.
+
+<br/>
+
+<img src="assets/sec-07.svg" width="100%" alt="07 GITHUB SIGNAL"/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranjal-sh-git&show_icons=true&hide_border=true&bg_color=130b1f&title_color=fcee0a&text_color=e8e4f0&icon_color=00f0ff&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-sh-git&layout=compact&hide_border=true&bg_color=130b1f&title_color=fcee0a&text_color=e8e4f0"/>
+
+<img src="https://streak-stats.demolab.com?user=Pranjal-sh-git&hide_border=true&background=130b1f&ring=ff2a6d&fire=fcee0a&currStreakLabel=fcee0a&currStreakNum=e8e4f0&sideLabels=00f0ff&sideNums=e8e4f0&dates=6f6886"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal-sh-git&bg_color=0b0710&color=fcee0a&line=ff2a6d&point=00f0ff&area=true&area_color=ff2a6d&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<img src="assets/sec-08.svg" width="100%" alt="08 OPEN SOURCE & EXPERIMENTS"/>
+
+Some repositories exist as **learning spaces, coursework, experiments and notes.**
+They aren't all meant to be polished products, and that's intentional.
+
+The interesting part of engineering is often the iteration:
+
+```bash
+while true; do
+  idea && prototype && break && debug && understand && rebuild && ship
+done
+```
+
+<br/>
+
+<div align="center">
+<img src="assets/footer.svg" width="100%" alt="BUILD. BREAK. UNDERSTAND. REBUILD."/>
 </div>

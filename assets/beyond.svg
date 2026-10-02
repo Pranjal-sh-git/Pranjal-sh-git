@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 150" width="960" height="150" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace">
+<defs><filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<polygon points="20.0,2.0 958.0,2.0 958.0,2.0 958.0,130.0 940.0,148.0 2.0,148.0 2.0,148.0 2.0,20.0" fill="#130b1f" stroke="#ff2a6d" stroke-width="1.5"/>
+<text x="28" y="36" font-size="12" fill="#6f6886" text-anchor="start" textLength="156.4" lengthAdjust="spacing" xml:space="preserve" >// CREATIVE.STACK</text>
+<polygon points="36.0,56.0 156.8,56.0 156.8,56.0 156.8,80.0 148.8,88.0 28.0,88.0 28.0,88.0 28.0,64.0" fill="#ff2a6d" fill-opacity=".1" stroke="#ff2a6d"/>
+<text x="92.4" y="77" font-size="14" fill="#e8e4f0" text-anchor="middle" textLength="100.8" lengthAdjust="spacing" xml:space="preserve" >Premiere Pro</text>
+<polygon points="176.8,56.0 306.0,56.0 306.0,56.0 306.0,80.0 298.0,88.0 168.8,88.0 168.8,88.0 168.8,64.0" fill="#ff2a6d" fill-opacity=".1" stroke="#ff2a6d"/>
+<text x="237.4" y="77" font-size="14" fill="#e8e4f0" text-anchor="middle" textLength="109.2" lengthAdjust="spacing" xml:space="preserve" >After Effects</text>
+<polygon points="326.0,56.0 421.6,56.0 421.6,56.0 421.6,80.0 413.6,88.0 318.0,88.0 318.0,88.0 318.0,64.0" fill="#ff2a6d" fill-opacity=".1" stroke="#ff2a6d"/>
+<text x="369.8" y="77" font-size="14" fill="#e8e4f0" text-anchor="middle" textLength="75.6" lengthAdjust="spacing" xml:space="preserve" >Photoshop</text>
+<text x="28" y="127" font-size="30" font-weight="800" fill="#ff2a6d" opacity="0.8" textLength="315" lengthAdjust="spacing"><animate attributeName="x" values="28.0;28.0;28.0;31.0;25.0;28.0;28.0;28.0;28.0;28.0;26.0;28.0" dur="3.2s" repeatCount="indefinite" calcMode="discrete"/>DETAILS MATTER.</text>
+<text x="28" y="127" font-size="30" font-weight="800" fill="#00f0ff" opacity="0.8" textLength="315" lengthAdjust="spacing"><animate attributeName="x" values="28.0;28.0;25.0;28.0;28.0;28.0;31.0;28.0;28.0;28.0;28.0;28.0" dur="3.2s" repeatCount="indefinite" calcMode="discrete"/>DETAILS MATTER.</text>
+<g filter="url(#glow)"><text x="28" y="127" font-size="30" font-weight="800" fill="#fcee0a" textLength="315" lengthAdjust="spacing">DETAILS MATTER.</text></g>
+<text x="932" y="127" font-size="12" fill="#6f6886" text-anchor="end" textLength="303.4" lengthAdjust="spacing" xml:space="preserve" >timing · hierarchy · composition · UX</text>
+</svg>
